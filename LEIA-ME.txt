@@ -1,0 +1,3 @@
+No começo do ano não pensava em criar um repositório dividido por aulas, tenho apenas as datas cujo quais são nome de alguns arquivos, ideia essa abandonada mais tarde, então ao querer separar por aulas tiveram algumas aulas que não foram citadas no teams da nossa professora, que eu usei como base para a organização, então eu não sabia exatamente onde certas coisas foram introduzidas, como o switch case. Por isso criada a pasta: TPA-AULAS INDETERMINADAS.
+Outro adendo é que não foram apenas 13 aulas, mas contam como 13 no teams. então as vezes pode ser que em 1 aula as professoras passaram 8 exercicios por exemplo, porem só passaram 4 em um dia e 4 em outro
+espero que entendam a confusão
